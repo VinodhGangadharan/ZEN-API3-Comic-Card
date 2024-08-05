@@ -1,0 +1,48 @@
+body
+{
+    background-color: black;
+    font-family:sans-serif;
+}
+p{
+    text-align: center;
+}
+button{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.card-body
+{
+   /*background-color: rgb(26, 54, 54);*/
+background-color: rgb(63, 62, 62);
+   color: white;
+}
+h3{
+    color: white;
+    text-align: center;
+}
+
+p{
+    color: rgb(245, 247, 124);
+}
+
+.row{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.col{
+margin-top: 10px;
+margin-bottom: 10px;
+}
+
+span{
+    font-size: medium;
+    color: white;
+}
+
+h5{
+    text-align: center;
+}
+
+
+
